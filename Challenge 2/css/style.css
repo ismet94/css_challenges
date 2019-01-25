@@ -5,6 +5,7 @@
     box-sizing: border-box;
   }
   
+  /* This ensures that the body s sized correctly between two screen sizes */
   body {
     margin: 0 auto;
     min-width: 1000px;
@@ -21,6 +22,7 @@
   aside {
     float: left;
     width: 30%;
+
   }
   
   nav {
@@ -42,8 +44,6 @@
     border-top: 5px solid rgb(10, 0, 56);
     border-bottom: 5px solid rgb(10, 0, 56);
   }
-  
-  /* WRITE YOUR CODE BELOW HERE */
 
   /* Body background colour and overall text size*/
 
@@ -87,7 +87,14 @@ a:link {
 a:visited {
     color: rgb(140, 0, 123);
     text-decoration-line: none; 
+}
 
+a:focus {
+    color: rgb(255, 0, 0);
+    font-size: 18px;
+    transition-duration: 0.3s;
+    transition-delay: 0.3;
+    text-decoration-line: none; 
 }
 
 a:hover {
@@ -99,7 +106,7 @@ a:hover {
 }
 
 a:active {
-        color: rgb(36, 254, 3);
+        color: rgb(254, 83, 3);
         font-size: 16;
         text-decoration-line: none; 
 }

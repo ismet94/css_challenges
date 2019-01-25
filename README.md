@@ -1,12 +1,12 @@
 # CSS Challenges
 
-- Fonts and Colours (Challenge 1)  - This challenge focused on colouring the text and headings on the website. Internal coding was created into the html file.
-- Challenge 2 
+- Fonts and Colours (Challenge 1): This challenge focused on colouring the text and headings on the website. Internal coding was created into the html file.
+- Challenge 2: Proceeded with all code provided and edited where needed. The challanged mainly focused on links, borders, side bars and hovering. A backgound colour with a gradient was selected to give it a elegant feel.
 
 ## Setting up your workspace
 
-- Create a new repository on the Github
-- Save to desired directory
+- Create a new repository on the Github this inlcudes all challenges and 
+- Save to desired directory (css challenges)
 - Created a base folder structure
 - Created the headings_paragraphs_challenge.html file
 - Updated all information using the push function with the GitBash
