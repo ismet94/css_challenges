@@ -1,0 +1,57 @@
+/* General Setup */
+
+* {
+    box-sizing: border-box;
+}
+
+/* Divs with classes to each box and their attributes*/
+
+.box1 {
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+    float: left;
+}
+
+.box2 {
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+    float: right;
+}
+
+.box3 {
+    height: 200px;
+    width: 200px;
+    background-color: gold;
+    float: left;
+}
+
+.box4 {
+    height: 200px;
+    width: 200px;
+    background-color: orangered;
+    float: right;
+}
+
+/* anchor pseudo-classes */
+
+/* once hovered the boxes colour would change */
+div:hover {
+    background-color: rgba(56, 56, 56, 0.397);
+}
+
+/* once clicked the colour changes until the mouse button is released */
+div:active {
+    background-color: rgb(46, 46, 46);
+}
+
+/* this ensures that only box 3 width changes */
+.box3:hover {
+    width: 600px;
+}
+
+/* this ensures that only box 4 width changes */
+.box4:hover {
+    width: 50px;
+}
