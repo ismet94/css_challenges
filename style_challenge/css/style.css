@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    line-height: 30px;
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(155, 88, 0, 0.596), rgb(255, 245, 155),  rgba(155, 88, 0, 0.596));
+}
+
+h1 {
+    padding-top: 40px;
+    font-size: 45px;
+    border: 20px;
+    text-transform: uppercase;
+}
+
+.paragraph {
+    margin: 0% 20% 0% 20%;
+    text-indent: 10px;
+    letter-spacing: 2px;
+}
+
+a:link {
+    color: rgb(17, 0, 255);
+}
+
+a:visited {
+    color: rgba(165, 0, 241, 0.932)
+}
+
+a:hover {
+    color: rgb(173, 0, 0);
+}
+
+a:active {
+    color: rgb(196, 142, 5);
+}
+
+label {
+    font-size: 20px;
+}
+
+.container {
+    font-style: oblique;
+    font-size: 30px;
+}
+
+.footer {
+    top: 0;
+    position: fixed;
+    text-indent: 0px;
+    letter-spacing: 0px;
+    background-color: rgba(0, 0, 0, 0.322);
+    color: bisque;
+    width: 100%;
+}

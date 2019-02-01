@@ -1,0 +1,35 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+    margin: 50%;
+}
+
+#speech-bubble {
+    text-align: center;
+    color: white;
+    position: absolute;
+    padding: 20px;
+    background-color: rgb(54, 107, 252);
+    border: 1px solid rgb(54, 107, 252);;
+    border-radius: 20px;
+    display: block;
+    height: 100px;
+    width: 100px;
+    left: -10px;
+}
+
+#speech-bubble:after {
+    content: '';
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 20px solid transparent;
+	border-right-color: rgb(54, 107, 252);;
+	border-left: 0;
+	margin-top: -20px;
+	margin-left: -20px;
+}
