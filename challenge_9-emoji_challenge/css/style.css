@@ -1,4 +1,10 @@
   /*starter CSS*/
+  
+  body{
+    padding-top: 100px;
+    padding-left: 100px;
+  }
+
   .face {
     background-color: rgb(241, 245, 6);
     border-radius: 300px;
@@ -26,7 +32,7 @@
 
   .mouth {
     margin-top: 220px;
-    border-bottom-left-radius: 30px;
     border-top: none;
     border: 2px solid rgb(0,0,0);
+    -webkit-transform-origin-y: 20px;
   }
