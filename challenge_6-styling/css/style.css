@@ -12,6 +12,23 @@ h1 {
     text-transform: uppercase;
 }
 
+input {
+    color: rgb(100, 57, 0);
+    line-height: 30px;
+    border: 1px solid rgba(155, 88, 0, 0.596);
+    text-indent: 5px;
+    background-color: rgb(255, 245, 155);
+    border-radius: 10px;
+}
+
+textarea {
+    color: rgb(100, 57, 0);
+    border: 1px solid rgba(155, 88, 0, 0.596);
+    text-indent: 5px;
+    background-color: rgb(255, 245, 155);
+    border-radius: 10px;
+}
+
 .paragraph {
     margin: 0% 20% 0% 20%;
     text-indent: 10px;
