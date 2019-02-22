@@ -116,12 +116,14 @@ Tools:
 - Created folder structure for challenge 8
 - Created the speech_bubble_challenge.html and the style.css file9
 - Completed challenge 8
+- Uploaded to Github
 
 2019-02-22:
 - Edited challenge 9 and completed emoji
 - Edited challenge 6 styling the form
 - Filed all the changelogs
 - Updated Readme.md file
+- Uploaded to Github
 
 ## Contributors
 
