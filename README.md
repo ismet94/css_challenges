@@ -2,7 +2,7 @@
 
 - Challenge 1: Fonts and Colours: This challenge focused on colouring the text and headings on the website. Internal coding was created into the html file.
 - Challenge 2: Proceeded with all code provided and edited where needed. The challanged mainly focused on links, borders, side bars and hovering. A backgound colour with a gradient was selected to give it a elegant feel.
-- Challenge 3: ????? ??? ?????? ??? ?????????????
+- Challenge 3: In this challenge I had to insert a declaration background and a backgound with the fallback if the first one does not load. I also inserted a png logo as briefed. I then moved on to the cool box where everything was styled internally.
 - Challenge 4 Float Box Challenge: By contructing individual boxes and floating some left and right I learned to create and divide sections. This challenge also helped me to hover over certain boxes with different properties.
 - Challenge 5 Google Font Challenge: This helped me to use different methods to load google fonts into my website. 
 - Challenge 6 Styling: Here I learned to implement styling to a form by creating my own coffee shop survey.
@@ -125,8 +125,15 @@ Tools:
 - Updated Readme.md file
 - Uploaded to Github
 
+2019-03-04:
+- Created folder structure for challenge 3
+- Downloaded media files
+- Completed Challenge 3
+- Updated Readme
+
+
 ## Contributors
 
-Ismet Samsodien® - 2018/2019
+Ismet Samsodien - 2018/2019
 
 

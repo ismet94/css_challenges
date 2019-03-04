@@ -1,3 +1,4 @@
+/* This sets a font for the whole document includng background and aligns all to the center */
 body {
     font-family: 'Roboto Slab', serif;
     line-height: 30px;
@@ -21,6 +22,7 @@ input {
     border-radius: 10px;
 }
 
+/* Styles the text are column */
 textarea {
     color: rgb(100, 57, 0);
     border: 1px solid rgba(155, 88, 0, 0.596);
@@ -29,12 +31,14 @@ textarea {
     border-radius: 10px;
 }
 
+/* Styles the paragraph */
 .paragraph {
     margin: 0% 20% 0% 20%;
     text-indent: 10px;
     letter-spacing: 2px;
 }
 
+/* Psuedo codes */
 a:link {
     color: rgb(17, 0, 255);
 }
@@ -60,6 +64,7 @@ label {
     font-size: 30px;
 }
 
+/* This ensures that the footer is styled correctly */
 .footer {
     top: 0;
     position: fixed;

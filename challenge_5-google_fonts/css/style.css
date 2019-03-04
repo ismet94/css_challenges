@@ -1,9 +1,12 @@
+/* Imports the fonts from google fonts each font has a fallback font*/
 @import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
 
+/* the font here will be imported to the first paragraph */
 .first {
     font-family: 'Indie Flower', cursive;
 }
 
+/* the font here will be imported to the second paragraph */
 .second {
     font-family: 'ZCOOL KuaiLe', cursive;
 }

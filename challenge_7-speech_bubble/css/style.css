@@ -1,3 +1,4 @@
+/* Selected font to be used */
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -6,6 +7,7 @@ div {
     margin: 50%;
 }
 
+/* Speech Bubble styling and positioning  */
 #speech-bubble {
     text-align: center;
     color: white;
@@ -20,6 +22,7 @@ div {
     left: -10px;
 }
 
+/* Speech bubble arrow stylng and positioning */
 #speech-bubble:after {
     content: '';
 	position: absolute;
